@@ -19,7 +19,7 @@ https://spencerhill97.github.io/calculator/
 
 ## Screenshots
 
-![calculator](https://github.com/spencerhill97/calculator/assets/113248092/0187ed0e-0959-4a02-8526-2ac7acd9c178)
+<img src="https://github.com/spencerhill97/calculator/assets/113248092/0187ed0e-0959-4a02-8526-2ac7acd9c178" width="250px" />
 
 
 
